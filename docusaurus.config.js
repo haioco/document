@@ -8,23 +8,23 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'مستندات هایو',
   tagline: 'سرور مجازی در یک دقیقه',
-  favicon: 'img/logo-dark.png',
+  favicon: '../img/logo-dark.png',
 
   // Set the production url of your site here
   url: 'https://doc.haio.ir',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/document',
+  baseUrl: '/document/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'haico', // Usually your GitHub org/user name.
+  organizationName: 'haioco', // Usually your GitHub org/user name.
   projectName: 'document', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   noIndex: true, // Defaults to `false`
-
+  trailingSlash: false,
   
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
@@ -82,13 +82,13 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/logo.png',
+      image: '/img/logo.png',
       navbar: {
         title: 'مستندات هایو',
         logo: {
           alt: 'هایو',
-          src: 'img/logo-dark.png',
-          srcDark: 'img/logo.png',
+          src: '../img/logo-dark.png',
+          srcDark: '../img/logo.png',
         },
         items: [
           // {
