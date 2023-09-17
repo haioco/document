@@ -11,10 +11,10 @@ const config = {
   favicon: 'img/logo-dark.png',
 
   // Set the production url of your site here
-  url: 'https://doc.haio.ir/document',
+  url: 'https://doc.haio.ir',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/document',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -61,7 +61,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/haioco/document/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/haioco/document',
         },
         blog: false, // Optional: disable the blog plugin
         // blog: {
