@@ -11,10 +11,10 @@ const config = {
   favicon: '../img/logo-dark.png',
 
   // Set the production url of your site here
-  url: 'https://haioco.github.io/',
+  url: 'https://doc.haio.ir',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/document/',
+  baseUrl: '/',
   
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
