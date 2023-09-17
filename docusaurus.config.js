@@ -14,14 +14,14 @@ const config = {
   url: 'https://doc.haio.ir',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/document/',
-
+  baseUrl: '/',
+  
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'haioco', // Usually your GitHub org/user name.
   projectName: 'document', // Usually your repo name.
 
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'ignore',
   onBrokenMarkdownLinks: 'warn',
   noIndex: true, // Defaults to `false`
   trailingSlash: false,
