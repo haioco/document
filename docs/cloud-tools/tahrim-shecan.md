@@ -15,497 +15,498 @@ sidebar_position: 1
 - این دی ان اس سرور فقط در سرورهای ابری هایو ایران قابل استفاده است.
 - این سرویس در وضعیت آزمایشی است ممکن است برخی سایتها هنوز به لیست تحریمها اضافه نشده باشد.
 - لیست زیر بیانگر دامنه‌های تحت پوشش ضد تحریم می‌باشد:
-www.fodev.org
-www.android.com
-www.amp.dev
-www.teamtreehouse.com
-www.codegrepper.com
-www.upwork.com
-www.bazel.build
-www.wallpaperget.com
-www.withgoogle.com
-www.microblink.com
-www.bluemix.net
-www.huggingface.co
-www.services.google.com
-www.slidesgo.com
-www.hotjar.com
-www.convertio.me
-www.convertio.co
-www.ipinfo.io
-www.openreview.net
-www.ieee.org
-www.pytorchlightning.ai
-www.ifconfig.co
-www.ipwhois.app
-www.earthengine.google.com
-www.wandb.ai
-www.exceedlms.com
-www.bit.ly
-www.mi.com
-www.cnet.com
-www.amazon.com
-www.aclanthology.org
-www.tinyurl.com
-www.is.gd
-www.programiz.com
-www.terrytao.wordpress.com
-www.sites.google.com
-www.cppstories.com
-www.gurobi.com
-www.pub.dev
-www.gvt1.com
-www.swift.org
-www.fbsbx.com
-www.github.io
-www.pdf2go.com
-www.netacad.com
-www.netdevgroup.com
-www.reality.ai
-www.mozilla.net
-www.websiteforstudents.com
-www.withgoogle.com
-www.kite.com
-www.googletagservices.com
-www.alexa.com
-www.getliner.com
-www.jetbrains.space
-www.ngrok.com
-www.ngrok.io
-www.gradle-dn.com
-www.overleaf.com
-www.jenkins.org
-www.rubygems.org
-www.ruby-doc.org
-www.k8s.io
-www.gcr.io
-www.sstatic.net
-www.kaggleusercontent.com
-www.debian.org
-www.arcgis.com
-www.gravityforms.com
-www.igdb.com
-www.mendeley.com
-www.eslint.org
-www.amazonaws.com
-www.code.videolan.org
-www.videolan.org
-www.google-analytics.com
-www.timedoctor.com
-www.conan.io
-www.oddrun.ir
-www.proandroiddev.com
-www.superuser.com
-www.parsely.com
-www.huawei.com
-www.leech.com
-www.lightstep.com
-www.optimizely.com
-www.branch.io
-www.serverfault.com
-www.stackexchange.com
-www.stackoverflow.com
-www.glitch.me
-www.glitch.com
-www.vuejs.org
-www.reactjs.org
-www.adservice.google.com
-www.jhipster.tech
-www.algolia.net
-www.adobelogin.com
-www.kaggle.io
-www.adobe.com
-www.zend.com
-www.symfony.com
-www.classroom.google.com
-www.csb.app
-www.flutter-io.cn
-www.dartlang.org
-www.flutter.dev
-www.paypal.com
-www.web.dev
-www.c9.io
-www.codecov.io
-www.coursehero.com
-www.flaticon.com
-www.githubapp.com
-www.expressjs.com
-www.twilio.com
-www.xip.io
-www.nip.io
-www.kinsta.com
-www.codex.cs.yale.edu
-www.edx.org
-www.chaquo.com
-www.php.net
-www.freedesktop.org
-www.mybridge.co
-www.githubusercontent.com
-www.play.google.com
-www.algolia.com
-www.algolianet.com
-www.developer.google.com
-www.photodune.net
-www.videohive.net
-www.balena.io
-www.laravel.com
-www.salesforce.com
-www.expo.io
-www.expo.dev
-www.clients.google.com
-www.telerik.com
-www.audiojungle.net
-www.3docean.net
-www.sparkjava.com
-www.zeit.co
-www.graphicriver.net
-www.mit.edu
-www.tinyjpg.com
-www.goanimate.com
-www.hackerrank.com
-www.gitlab.com
-www.gitpod.io
-www.atlassian.com
-www.spiceworks.com
-www.bugsnag.com
-www.sentry.io
-www.clients6.google.com
-www.incredibuild.com
-www.khronos.org
-www.epicgames.com
-www.enterprisedb.com
-www.packagist.org
-www.jenkov.com
-www.bintray.com
-www.edgesuite.net
-www.marketingplatform.google.com
-www.gopkg.in
-www.labix.org
-www.withgoogle.com
-www.accounts.google.com
-www.coinbase.com
-www.schema.org
-www.invisionapp.com
-www.bitbucket.org
-www.softonic.com
-www.developers.google.com
-www.nativescript.org
-www.kaggle.com
-www.ads.google.com
-www.domains.google.com
-www.tensorflow.org
-www.apple.com
-www.aws.amazon.com
-www.dl.google.com
-www.rapid7.com
-www.pscdn.co
-www.appengine.google.com
-www.baeldung.com
-www.envato-static.com
-www.newrelic.com
-www.google.ai
-www.gitlab.io
-www.flutter.io
-www.ai.google
-www.doubleclickbygoogle.com
-www.doubleclick.net
-www.gstatic.com
-www.jwplayer.com
-www.caddyserver.com
-www.caddy.community
-www.googleadservices.com
-www.googletagmanager.com
-www.androidstudio.googleblog.com
-www.geforce.com
-www.socket.io
-www.googleusercontent.com
-www.en25.com
-www.tinypng.com
-www.fsdn.com
-www.justpaste.it
-www.demandbase.com
-www.appspot.com
-www.element14.com
-www.unity3d.com
-www.sourceforge.net
-www.unity.com
-www.myfonts.net
-www.jaspersoft.com
-www.design.google.com
-www.stripe.com
-www.python.org
-www.pypi.org
-www.gravatar.com
-www.cloud.google.com
-www.analytics.google.com
-www.optimize.google.com
-www.tagmanager.google.com
-www.fiber.google.com
-www.dl-ssl.google.com
-www.dns.google.com
-www.firebase.google.com
-www.firebase.com
-www.googleapis.com
-www.jetbrains.com
-www.seleniumhq.org
-www.invis.io
-www.i18next.com
-www.java.com
-www.vuforia.com
-www.cocalc.com
-www.gradle.org
-www.fabric.io
-www.apis.google.com
-www.godoc.org
-www.paypalobjects.com
-www.count.ly
-www.khanacademy.org
-www.oracle.com
-www.crashlytics.com
-www.origin.com
-www.explainshell.com
-www.packtpub.com
-www.traviscistatus.com
-www.golang.org
-www.storage.googleapis.com
-www.flutterlearn.com
-www.spring.io
-www.themeforest.net
-www.flurry.com
-www.softlayer.com
-www.mailgun.com
-www.bootstrapcdn.com
-www.download.virtualbox.org
-www.sun.com
-www.books.google.com
-www.mysql.com
-www.unrealengine.com
-www.mongodb.org
-www.mongodb.com
-www.swaggerhub.com
-www.envato.com
-www.apps.admob.com
-www.grafana.com
-www.cp.maxcdn.com
-www.codecanyon.net
-www.compiles.overleaf.com
-www.amd.com
-www.payments.google.com
-www.ibm.com
-www.jenkins-ci.org
-www.mbed.com
-www.ti.com
-www.netbeans.org
-www.vmware.com
-www.toggl.com
-www.docker.com
-www.docker.io
-www.datacamp.com
-www.googlesource.com
-www.polymer-project.org
-www.udemy.com
-www.udemycdn.com
-www.udemycdn-a.com
-www.material.io
-www.teamviewer.com
-www.intel.com
-www.developer.chrome.com
-www.github.com
-www.jfrog.org
-www.sonatype.org
-www.maven.org
-www.jitpack.io
-www.maven.google.com
-www.cloudfront.net
-www.nvidia.com
-www.rstudio.com
-www.sendgrid.com
-www.kubernetes.io
-www.issuetracker.google.com
-www.virtualbox.org
-www.atlassian.net
-www.ubuntu.com
-www.b4x.com
-www.elastic.co
-www.launchpad.net
-www.medium.com
-www.code.google.com
-www.realm.io
-www.maas.io
-www.docs.datastax.com
-www.splunk.com
-www.gitlab-static.net
-www.releases.hashicorp.com
-www.livefyre.com
-www.cloudera.com
-www.apache.org
-www.vagrantup.com
-www.metasploit.com
-www.coursera.org
-www.nodejs.org
-www.macromedia.com
-www.akamaized.net
-www.npmjs.org
-www.dell.com
-www.gallery.io
-www.mathworks.com
-www.lenovo.com
-www.jitsi.org
-www.anydesk.com
-www.ant.design
-www.centos.org
-www.quay.io
-www.bitvise.com
-www.nextjs.org
-www.ni.com
-www.graphql.org
-www.altera.com
-www.microchip.com
-www.codesandbox.io
-www.spotify.com
-www.scdn.co
-www.godbolt.org
-www.zoom.us
-www.freecodecamp.org
-www.libraries.io
-www.githubassets.com
-www.i.stack.imgur.com
-www.bitsrc.io
-www.hyper.is
-www.serialport.io
-www.curd.io
-www.wikia.com
-www.fluttercrashcourse.com
-www.developer.samsung.com
-www.clients2.google.com
-www.business.google.com
-www.grabcad.com
-www.vmcdn.com
-www.nirsoft.net
-www.digikey.com
-www.download.01.org
-www.packagesource.com
-www.wtfismyip.com
-www.bootswatch.com
-www.getbootstrap.com
-www.events.google.com
-www.unsplash.com
-www.packagecloud.io
-www.coursera-apps.org
-www.coursera.com
-www.javacardos.com
-www.getcaddy.com
-www.bit.dev
-www.clamav.net
-www.qt.io
-www.forums.cpanel.net
-www.nginx.com
-www.surveys.google.com
-www.jfrog.io
-www.yarnpkg.com
-www.kaggle.net
-www.battlecode.org
-www.cljdoc.org
-www.vuetifyjs.com
-www.wpastra.com
-www.zeplin.io
-www.xkcd.com
-www.deployer.org
-www.heroku.com
-www.travis-ci.com
-www.travis-ci.org
-www.hpe.com
-www.fedoramagazine.org
-www.datastudio.google.com
-www.stackshare.io
-www.cloudbees.com
-www.red.com
-www.remove.bg
-www.fedoraproject.org
-www.consul.io
-www.mozilla.org
-www.bigbluebutton.org
-www.openvpn.net
-www.alpinelinux.org
-www.yajrabox.com
-www.api.daily.dev
-www.wakatime.com
-www.fontawesome.com
-www.webcatalog.app
-www.hackthebox.eu
-www.segment.com
-www.towardsdatascience.com
-www.microsoft.com
-www.trello.com
-www.mariadb.com
-www.tabnine.com
-www.chromium.org
-www.cisco.com
-www.nestjs.com
-www.envato.market
-www.mailchimp.com
-www.stripe.network
-www.waze.com
-www.visualping.io
-www.trellocdn.com
-www.typoci.com
-www.logrocket.com
-www.statuspage.io
-www.hp.com
-www.nodesource.com
-www.react-select.com
-www.earthengine.google.com
-www.fortinet.com
-www.leafletjs.com
-www.dev.to
-www.ojrq.net
-www.codepen.io
-www.xiaomi.com
-www.micropyramid.com
-www.dns.google
-www.digitalocean.com
-www.lit.dev
-www.intellij.net
-www.altn.com
-www.pingdom.com
-www.thinkwithgoogle.com
-www.githubusercontent.com
-www.000webhost.com
-www.dot.tk
-www.freenom.com
-www.quilljs.com
-www.hackerrank.com
-www.fuchsia.dev
-www.highcharts.com
-www.fusioncharts.com
-www.deno.land
-www.minio.io
-www.nvcr.io
-www.opendev.org
-www.pypa.io
-www.pythonhosted.org
-www.cirros-cloud.net
-www.bestbuy.com
-www.dashboardpack.com
-www.eloqua.com
-www.gnome.org
-www.google.qualtrics.com
-www.lg.com
-www.lgappstv.com
-www.linuxquestions.org
-www.notifications.google.com
-www.one.google.com
-www.onfastspring.com
-www.paddle.com
-www.rtings.com
-www.templatemag.com
-www.themepixels.me
-www.wrappixel.com
-www.azul.com
-www.go.dev
-www.plotly.com
-www.coreldraw.com
-www.intelephense.com
-www.itsfoss.com
-www.serverpilot.io
+  
+- [x] www.fodev.org
+- [x] www.android.com
+- [x] www.amp.dev
+- [x] www.teamtreehouse.com
+- [x] www.codegrepper.com
+- [x] www.upwork.com
+- [x] www.bazel.build
+- [x] www.wallpaperget.com
+- [x] www.withgoogle.com
+- [x] www.microblink.com
+- [x] www.bluemix.net
+- [x] www.huggingface.co
+- [x] www.services.google.com
+- [x] www.slidesgo.com
+- [x] www.hotjar.com
+- [x] www.convertio.me
+- [x] www.convertio.co
+- [x] www.ipinfo.io
+- [x] www.openreview.net
+- [x] www.ieee.org
+- [x] www.pytorchlightning.ai
+- [x] www.ifconfig.co
+- [x] www.ipwhois.app
+- [x] www.earthengine.google.com
+- [x] www.wandb.ai
+- [x] www.exceedlms.com
+- [x] www.bit.ly
+- [x] www.mi.com
+- [x] www.cnet.com
+- [x] www.amazon.com
+- [x] www.aclanthology.org
+- [x] www.tinyurl.com
+- [x] www.is.gd
+- [x] www.programiz.com
+- [x] www.terrytao.wordpress.com
+- [x] www.sites.google.com
+- [x] www.cppstories.com
+- [x] www.gurobi.com
+- [x] www.pub.dev
+- [x] www.gvt1.com
+- [x] www.swift.org
+- [x] www.fbsbx.com
+- [x] www.github.io
+- [x] www.pdf2go.com
+- [x] www.netacad.com
+- [x] www.netdevgroup.com
+- [x] www.reality.ai
+- [x] www.mozilla.net
+- [x] www.websiteforstudents.com
+- [x] www.withgoogle.com
+- [x] www.kite.com
+- [x] www.googletagservices.com
+- [x] www.alexa.com
+- [x] www.getliner.com
+- [x] www.jetbrains.space
+- [x] www.ngrok.com
+- [x] www.ngrok.io
+- [x] www.gradle-dn.com
+- [x] www.overleaf.com
+- [x] www.jenkins.org
+- [x] www.rubygems.org
+- [x] www.ruby-doc.org
+- [x] www.k8s.io
+- [x] www.gcr.io
+- [x] www.sstatic.net
+- [x] www.kaggleusercontent.com
+- [x] www.debian.org
+- [x] www.arcgis.com
+- [x] www.gravityforms.com
+- [x] www.igdb.com
+- [x] www.mendeley.com
+- [x] www.eslint.org
+- [x] www.amazonaws.com
+- [x] www.code.videolan.org
+- [x] www.videolan.org
+- [x] www.google-analytics.com
+- [x] www.timedoctor.com
+- [x] www.conan.io
+- [x] www.oddrun.ir
+- [x] www.proandroiddev.com
+- [x] www.superuser.com
+- [x] www.parsely.com
+- [x] www.huawei.com
+- [x] www.leech.com
+- [x] www.lightstep.com
+- [x] www.optimizely.com
+- [x] www.branch.io
+- [x] www.serverfault.com
+- [x] www.stackexchange.com
+- [x] www.stackoverflow.com
+- [x] www.glitch.me
+- [x] www.glitch.com
+- [x] www.vuejs.org
+- [x] www.reactjs.org
+- [x] www.adservice.google.com
+- [x] www.jhipster.tech
+- [x] www.algolia.net
+- [x] www.adobelogin.com
+- [x] www.kaggle.io
+- [x] www.adobe.com
+- [x] www.zend.com
+- [x] www.symfony.com
+- [x] www.classroom.google.com
+- [x] www.csb.app
+- [x] www.flutter-io.cn
+- [x] www.dartlang.org
+- [x] www.flutter.dev
+- [x] www.paypal.com
+- [x] www.web.dev
+- [x] www.c9.io
+- [x] www.codecov.io
+- [x] www.coursehero.com
+- [x] www.flaticon.com
+- [x] www.githubapp.com
+- [x] www.expressjs.com
+- [x] www.twilio.com
+- [x] www.xip.io
+- [x] www.nip.io
+- [x] www.kinsta.com
+- [x] www.codex.cs.yale.edu
+- [x] www.edx.org
+- [x] www.chaquo.com
+- [x] www.php.net
+- [x] www.freedesktop.org
+- [x] www.mybridge.co
+- [x] www.githubusercontent.com
+- [x] www.play.google.com
+- [x] www.algolia.com
+- [x] www.algolianet.com
+- [x] www.developer.google.com
+- [x] www.photodune.net
+- [x] www.videohive.net
+- [x] www.balena.io
+- [x] www.laravel.com
+- [x] www.salesforce.com
+- [x] www.expo.io
+- [x] www.expo.dev
+- [x] www.clients.google.com
+- [x] www.telerik.com
+- [x] www.audiojungle.net
+- [x] www.3docean.net
+- [x] www.sparkjava.com
+- [x] www.zeit.co
+- [x] www.graphicriver.net
+- [x] www.mit.edu
+- [x] www.tinyjpg.com
+- [x] www.goanimate.com
+- [x] www.hackerrank.com
+- [x] www.gitlab.com
+- [x] www.gitpod.io
+- [x] www.atlassian.com
+- [x] www.spiceworks.com
+- [x] www.bugsnag.com
+- [x] www.sentry.io
+- [x] www.clients6.google.com
+- [x] www.incredibuild.com
+- [x] www.khronos.org
+- [x] www.epicgames.com
+- [x] www.enterprisedb.com
+- [x] www.packagist.org
+- [x] www.jenkov.com
+- [x] www.bintray.com
+- [x] www.edgesuite.net
+- [x] www.marketingplatform.google.com
+- [x] www.gopkg.in
+- [x] www.labix.org
+- [x] www.withgoogle.com
+- [x] www.accounts.google.com
+- [x] www.coinbase.com
+- [x] www.schema.org
+- [x] www.invisionapp.com
+- [x] www.bitbucket.org
+- [x] www.softonic.com
+- [x] www.developers.google.com
+- [x] www.nativescript.org
+- [x] www.kaggle.com
+- [x] www.ads.google.com
+- [x] www.domains.google.com
+- [x] www.tensorflow.org
+- [x] www.apple.com
+- [x] www.aws.amazon.com
+- [x] www.dl.google.com
+- [x] www.rapid7.com
+- [x] www.pscdn.co
+- [x] www.appengine.google.com
+- [x] www.baeldung.com
+- [x] www.envato-static.com
+- [x] www.newrelic.com
+- [x] www.google.ai
+- [x] www.gitlab.io
+- [x] www.flutter.io
+- [x] www.ai.google
+- [x] www.doubleclickbygoogle.com
+- [x] www.doubleclick.net
+- [x] www.gstatic.com
+- [x] www.jwplayer.com
+- [x] www.caddyserver.com
+- [x] www.caddy.community
+- [x] www.googleadservices.com
+- [x] www.googletagmanager.com
+- [x] www.androidstudio.googleblog.com
+- [x] www.geforce.com
+- [x] www.socket.io
+- [x] www.googleusercontent.com
+- [x] www.en25.com
+- [x] www.tinypng.com
+- [x] www.fsdn.com
+- [x] www.justpaste.it
+- [x] www.demandbase.com
+- [x] www.appspot.com
+- [x] www.element14.com
+- [x] www.unity3d.com
+- [x] www.sourceforge.net
+- [x] www.unity.com
+- [x] www.myfonts.net
+- [x] www.jaspersoft.com
+- [x] www.design.google.com
+- [x] www.stripe.com
+- [x] www.python.org
+- [x] www.pypi.org
+- [x] www.gravatar.com
+- [x] www.cloud.google.com
+- [x] www.analytics.google.com
+- [x] www.optimize.google.com
+- [x] www.tagmanager.google.com
+- [x] www.fiber.google.com
+- [x] www.dl-ssl.google.com
+- [x] www.dns.google.com
+- [x] www.firebase.google.com
+- [x] www.firebase.com
+- [x] www.googleapis.com
+- [x] www.jetbrains.com
+- [x] www.seleniumhq.org
+- [x] www.invis.io
+- [x] www.i18next.com
+- [x] www.java.com
+- [x] www.vuforia.com
+- [x] www.cocalc.com
+- [x] www.gradle.org
+- [x] www.fabric.io
+- [x] www.apis.google.com
+- [x] www.godoc.org
+- [x] www.paypalobjects.com
+- [x] www.count.ly
+- [x] www.khanacademy.org
+- [x] www.oracle.com
+- [x] www.crashlytics.com
+- [x] www.origin.com
+- [x] www.explainshell.com
+- [x] www.packtpub.com
+- [x] www.traviscistatus.com
+- [x] www.golang.org
+- [x] www.storage.googleapis.com
+- [x] www.flutterlearn.com
+- [x] www.spring.io
+- [x] www.themeforest.net
+- [x] www.flurry.com
+- [x] www.softlayer.com
+- [x] www.mailgun.com
+- [x] www.bootstrapcdn.com
+- [x] www.download.virtualbox.org
+- [x] www.sun.com
+- [x] www.books.google.com
+- [x] www.mysql.com
+- [x] www.unrealengine.com
+- [x] www.mongodb.org
+- [x] www.mongodb.com
+- [x] www.swaggerhub.com
+- [x] www.envato.com
+- [x] www.apps.admob.com
+- [x] www.grafana.com
+- [x] www.cp.maxcdn.com
+- [x] www.codecanyon.net
+- [x] www.compiles.overleaf.com
+- [x] www.amd.com
+- [x] www.payments.google.com
+- [x] www.ibm.com
+- [x] www.jenkins-ci.org
+- [x] www.mbed.com
+- [x] www.ti.com
+- [x] www.netbeans.org
+- [x] www.vmware.com
+- [x] www.toggl.com
+- [x] www.docker.com
+- [x] www.docker.io
+- [x] www.datacamp.com
+- [x] www.googlesource.com
+- [x] www.polymer-project.org
+- [x] www.udemy.com
+- [x] www.udemycdn.com
+- [x] www.udemycdn-a.com
+- [x] www.material.io
+- [x] www.teamviewer.com
+- [x] www.intel.com
+- [x] www.developer.chrome.com
+- [x] www.github.com
+- [x] www.jfrog.org
+- [x] www.sonatype.org
+- [x] www.maven.org
+- [x] www.jitpack.io
+- [x] www.maven.google.com
+- [x] www.cloudfront.net
+- [x] www.nvidia.com
+- [x] www.rstudio.com
+- [x] www.sendgrid.com
+- [x] www.kubernetes.io
+- [x] www.issuetracker.google.com
+- [x] www.virtualbox.org
+- [x] www.atlassian.net
+- [x] www.ubuntu.com
+- [x] www.b4x.com
+- [x] www.elastic.co
+- [x] www.launchpad.net
+- [x] www.medium.com
+- [x] www.code.google.com
+- [x] www.realm.io
+- [x] www.maas.io
+- [x] www.docs.datastax.com
+- [x] www.splunk.com
+- [x] www.gitlab-static.net
+- [x] www.releases.hashicorp.com
+- [x] www.livefyre.com
+- [x] www.cloudera.com
+- [x] www.apache.org
+- [x] www.vagrantup.com
+- [x] www.metasploit.com
+- [x] www.coursera.org
+- [x] www.nodejs.org
+- [x] www.macromedia.com
+- [x] www.akamaized.net
+- [x] www.npmjs.org
+- [x] www.dell.com
+- [x] www.gallery.io
+- [x] www.mathworks.com
+- [x] www.lenovo.com
+- [x] www.jitsi.org
+- [x] www.anydesk.com
+- [x] www.ant.design
+- [x] www.centos.org
+- [x] www.quay.io
+- [x] www.bitvise.com
+- [x] www.nextjs.org
+- [x] www.ni.com
+- [x] www.graphql.org
+- [x] www.altera.com
+- [x] www.microchip.com
+- [x] www.codesandbox.io
+- [x] www.spotify.com
+- [x] www.scdn.co
+- [x] www.godbolt.org
+- [x] www.zoom.us
+- [x] www.freecodecamp.org
+- [x] www.libraries.io
+- [x] www.githubassets.com
+- [x] www.i.stack.imgur.com
+- [x] www.bitsrc.io
+- [x] www.hyper.is
+- [x] www.serialport.io
+- [x] www.curd.io
+- [x] www.wikia.com
+- [x] www.fluttercrashcourse.com
+- [x] www.developer.samsung.com
+- [x] www.clients2.google.com
+- [x] www.business.google.com
+- [x] www.grabcad.com
+- [x] www.vmcdn.com
+- [x] www.nirsoft.net
+- [x] www.digikey.com
+- [x] www.download.01.org
+- [x] www.packagesource.com
+- [x] www.wtfismyip.com
+- [x] www.bootswatch.com
+- [x] www.getbootstrap.com
+- [x] www.events.google.com
+- [x] www.unsplash.com
+- [x] www.packagecloud.io
+- [x] www.coursera-apps.org
+- [x] www.coursera.com
+- [x] www.javacardos.com
+- [x] www.getcaddy.com
+- [x] www.bit.dev
+- [x] www.clamav.net
+- [x] www.qt.io
+- [x] www.forums.cpanel.net
+- [x] www.nginx.com
+- [x] www.surveys.google.com
+- [x] www.jfrog.io
+- [x] www.yarnpkg.com
+- [x] www.kaggle.net
+- [x] www.battlecode.org
+- [x] www.cljdoc.org
+- [x] www.vuetifyjs.com
+- [x] www.wpastra.com
+- [x] www.zeplin.io
+- [x] www.xkcd.com
+- [x] www.deployer.org
+- [x] www.heroku.com
+- [x] www.travis-ci.com
+- [x] www.travis-ci.org
+- [x] www.hpe.com
+- [x] www.fedoramagazine.org
+- [x] www.datastudio.google.com
+- [x] www.stackshare.io
+- [x] www.cloudbees.com
+- [x] www.red.com
+- [x] www.remove.bg
+- [x] www.fedoraproject.org
+- [x] www.consul.io
+- [x] www.mozilla.org
+- [x] www.bigbluebutton.org
+- [x] www.openvpn.net
+- [x] www.alpinelinux.org
+- [x] www.yajrabox.com
+- [x] www.api.daily.dev
+- [x] www.wakatime.com
+- [x] www.fontawesome.com
+- [x] www.webcatalog.app
+- [x] www.hackthebox.eu
+- [x] www.segment.com
+- [x] www.towardsdatascience.com
+- [x] www.microsoft.com
+- [x] www.trello.com
+- [x] www.mariadb.com
+- [x] www.tabnine.com
+- [x] www.chromium.org
+- [x] www.cisco.com
+- [x] www.nestjs.com
+- [x] www.envato.market
+- [x] www.mailchimp.com
+- [x] www.stripe.network
+- [x] www.waze.com
+- [x] www.visualping.io
+- [x] www.trellocdn.com
+- [x] www.typoci.com
+- [x] www.logrocket.com
+- [x] www.statuspage.io
+- [x] www.hp.com
+- [x] www.nodesource.com
+- [x] www.react-select.com
+- [x] www.earthengine.google.com
+- [x] www.fortinet.com
+- [x] www.leafletjs.com
+- [x] www.dev.to
+- [x] www.ojrq.net
+- [x] www.codepen.io
+- [x] www.xiaomi.com
+- [x] www.micropyramid.com
+- [x] www.dns.google
+- [x] www.digitalocean.com
+- [x] www.lit.dev
+- [x] www.intellij.net
+- [x] www.altn.com
+- [x] www.pingdom.com
+- [x] www.thinkwithgoogle.com
+- [x] www.githubusercontent.com
+- [x] www.000webhost.com
+- [x] www.dot.tk
+- [x] www.freenom.com
+- [x] www.quilljs.com
+- [x] www.hackerrank.com
+- [x] www.fuchsia.dev
+- [x] www.highcharts.com
+- [x] www.fusioncharts.com
+- [x] www.deno.land
+- [x] www.minio.io
+- [x] www.nvcr.io
+- [x] www.opendev.org
+- [x] www.pypa.io
+- [x] www.pythonhosted.org
+- [x] www.cirros-cloud.net
+- [x] www.bestbuy.com
+- [x] www.dashboardpack.com
+- [x] www.eloqua.com
+- [x] www.gnome.org
+- [x] www.google.qualtrics.com
+- [x] www.lg.com
+- [x] www.lgappstv.com
+- [x] www.linuxquestions.org
+- [x] www.notifications.google.com
+- [x] www.one.google.com
+- [x] www.onfastspring.com
+- [x] www.paddle.com
+- [x] www.rtings.com
+- [x] www.templatemag.com
+- [x] www.themepixels.me
+- [x] www.wrappixel.com
+- [x] www.azul.com
+- [x] www.go.dev
+- [x] www.plotly.com
+- [x] www.coreldraw.com
+- [x] www.intelephense.com
+- [x] www.itsfoss.com
+- [x] www.serverpilot.io
 در صورتی که دامنه مورد نظر شما در لیست فوق قرار نداشت می‌توانید با ارسال تیکت به بخش پشتیبانی، ما را در تکمیل این لیست کمک نمایید.
