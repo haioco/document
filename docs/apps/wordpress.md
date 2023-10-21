@@ -27,7 +27,7 @@ sidebar_position: 5
 
 اطلاعات ورود به وردپرس از ۲ طریق زیر قابل دسترسی است:
 
-- [x] بعد از ssh به سرور در مسیر <span dir="ltr">/home/bitnami/bitnami_credentials</span>
+- [x] بعد از ssh به سرور با اجرای دستور <span dir="ltr">cat /home/bitnami/bitnami_credentials</span>
  
 
 
