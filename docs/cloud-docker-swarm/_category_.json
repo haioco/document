@@ -1,0 +1,8 @@
+{
+  "label": "کلاستر داکر",
+  "position": 4,
+  "link": {
+    "type": "generated-index",
+    "description": "نحوه ساخت و مدیریت کلاستر docker swarm در هایو"
+  }
+}
